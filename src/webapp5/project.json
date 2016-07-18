@@ -1,4 +1,10 @@
 {
+  "version": "0.1.0-beta-*",
+   "packOptions": {
+        "licenseUrl": "https://github.com/colhountech/azure-fast7-webapp5/blob/master/LICENSE",
+        "projectUrl": "https://github.com/colhountech/azure-fast7-webapp5",
+  },
+
   "userSecretsId": "aspnet-webapp5-9a7c3c0c-5244-4b1a-9370-0fcc1c5e2520",
 
   "dependencies": {
